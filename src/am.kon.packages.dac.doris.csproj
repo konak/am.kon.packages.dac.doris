@@ -5,7 +5,7 @@
     <ReleaseVersion>0.1.0.0</ReleaseVersion>
     <SynchReleaseVersion>false</SynchReleaseVersion>
     <PackageId>am.kon.packages.dac.doris</PackageId>
-    <PackageVersion>0.1.0.0</PackageVersion>
+    <PackageVersion>0.1.0.1</PackageVersion>
     <Authors>Konakov Sergey</Authors>
     <Description>Data Access Component implementing functionality to interact with Apache Doris via its MySQL-compatible protocol, mirroring the DAC API.</Description>
     <RepositoryUrl>https://github.com/konak/am.kon.packages.dac.doris</RepositoryUrl>
@@ -18,9 +18,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="MySql.Data" Version="9.1.0" />
+    <PackageReference Include="MySql.Data" Version="9.5.0" />
     <PackageReference Include="am.kon.packages.dac.common" Version="0.1.0.3" />
-    <PackageReference Include="am.kon.packages.dac.primitives" Version="0.1.0.5" />
+    <PackageReference Include="am.kon.packages.dac.primitives" Version="0.1.0.8" />
   </ItemGroup>
 
   <ItemGroup>

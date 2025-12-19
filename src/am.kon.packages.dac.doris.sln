@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "am.kon.packages.dac.doris", "am.kon.packages.dac.doris.csproj", "{E1D30DA4-B203-4291-B2B8-8E73E5EB337F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1D30DA4-B203-4291-B2B8-8E73E5EB337F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1D30DA4-B203-4291-B2B8-8E73E5EB337F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1D30DA4-B203-4291-B2B8-8E73E5EB337F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1D30DA4-B203-4291-B2B8-8E73E5EB337F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69B056CC-A0B4-4992-8812-D38CE9F1F665}
+	EndGlobalSection
+EndGlobal
